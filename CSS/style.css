@@ -1,0 +1,85 @@
+body, html {
+  background: #fff;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-size: 100%; }
+
+h1 {
+  font-family: sans-serif, Arial !important;
+  color: #666666 !important;
+  font-size: 150% !important;
+  padding-bottom: 2%;
+  padding-left: 9.5%; }
+
+a:link {
+  color: #fff !important; }
+
+a:visited {
+  color: #fff !important; }
+
+a:active {
+  color: #fff !important; }
+
+a:focus {
+  color: #fff !important; }
+
+.nav-absolute {
+  position: absolute !important;
+  width: 100% !important;
+  z-index: 1000 !important; }
+
+.navbar{
+  border: none;
+  background: #666666;
+  color: #7a7a7a;
+  height: 50px;
+  top: 0;
+}
+
+.nav{
+  float: left !important;
+  margin-left: 25%;
+  font-size: 120%;
+  width: 50%;
+}
+
+.main{
+  background: #efefef;
+  float: right;
+  width: 80%;
+  height: 95vh;
+}
+
+.side{
+  background: #bcbcbc;
+  float: left;
+  width: 20%;
+  height: 95vh;
+}
+
+.content {
+  position: absolute;
+  display: block;
+  width: 100%;}
+  .content .footer {
+    background: #E4E4E4;
+    color: #666666;
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    bottom: 0;
+    left: 0; }
+    .content .footer .credit {
+      position: absolute;
+      right: 0;
+      margin: 0 5%;
+      line-height: 50px; }
+    .content .footer .impressum {
+      position: absolute;
+      left: 0;
+      margin: 0 5%;
+      line-height: 50px; }
+
+
