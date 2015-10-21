@@ -11,7 +11,7 @@ html, body{
 header{
 	background: #202020;
 	padding: 1%;
-	border-bottom: 3px solid #28b1b6;
+	border-bottom: 3px solid #C9469A;
 }
 
 .main {
@@ -35,18 +35,18 @@ header{
 }
 
 .side {
-	background: #dae7e8;
+	background: #FF91BA;
 	padding: 1%;
 	order: 0;
     flex: 2 1 auto;
     align-self: stretch;
-    border-left: 12px solid #bac6c7;
+    border-left: 12px solid #7F587C;
 
-    color: #71797a;
+    color: #7F587C;
 }
 
 .side a {
-    color: #71797a;
+    color: #7F587C;
     font-weight: bold;
     text-decoration: none;
 }
@@ -84,13 +84,13 @@ h1 {
 }
 
 h2 {
-	color: #beebee;
+	color: #C9469A;
 	font-style: italic;
 }
 
 h3 {
 	color: #3c3c3c;
 	width: 50%;
-	border-bottom: 2px dashed #c2e6e6;
+	border-bottom: 2px dashed #C9469A;
 	margin-bottom: 1%;
 }
